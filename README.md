@@ -1,5 +1,5 @@
-# Learning Go
-Repo for learning golang
+# gohelloworld
+Go HelloWorld!
 
 ## Installing Go
 Go to https://golang.org/dl/
