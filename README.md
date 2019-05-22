@@ -10,7 +10,7 @@ Start the installer and follow the install steps to install the Go tools.
 To validated it installed try the command `go version`
 and it should display the current version installed `go version go1.12.5 darwin/amd64`.
 
-## go CLI
+## Go CLI
 `go build` - Compiles a bunch of go source code files
 `go run` - Compiles and executes one or two files
 `go fmt` - Formats all code in each file in the current directory
